@@ -9,7 +9,7 @@ env:
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 79d87de6-cac3-4d20-9068-561d141fd787
-  WEBAPP-NAME: eshoponweb-webapp-maga
+  WEBAPP-NAME: testRRSCICDMagasvs
 
 jobs:
   #Build, test and publish .net web project in repository
